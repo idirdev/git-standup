@@ -1,0 +1,22 @@
+{
+  "name": "@idirdev/git-standup",
+  "version": "1.0.0",
+  "description": "Show what you worked on recently for standups",
+  "main": "src/index.js",
+  "author": "idirdev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idirdev/git-standup.git"
+  },
+  "keywords": [],
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "scripts": {
+    "test": "node --test tests/"
+  },
+  "bin": {
+    "git-standup": "bin/cli.js"
+  }
+}
