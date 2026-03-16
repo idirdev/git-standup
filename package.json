@@ -18,5 +18,9 @@
   },
   "bin": {
     "git-standup": "bin/cli.js"
+  },
+  "homepage": "https://github.com/idirdev/git-standup",
+  "bugs": {
+    "url": "https://github.com/idirdev/git-standup/issues"
   }
 }
